@@ -29,3 +29,4 @@ categories, and time periods.
 
 ## Dashboard Preview
 
+![Excel Sales Dashboard](dashboard.png)
